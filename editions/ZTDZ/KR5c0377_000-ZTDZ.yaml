@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0377/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: 道德篇章玄頌序淵三
+  hash: sha256:5b336c20fcbf49a84d20df5acf9ab828b58c1f54eadd846494a7aab45a053963
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0377_SJB_000-190821b, image: sjb/19/190821b.png}
+body:
+  text: 新授郢州防禦判官將仕郎試大理司直兼監察御史宋鸞伏聞淳朴之性本乎自然機智之源生于習作乃知結繩闡化可行於太古之時染素興悲漸變於中和之氣既揚文字乃别賢愚干戈起堯舜之前尚循正道弔伐見湯武之際竟薄眞風其後磐石分封剪桐錫寵匡君有志求霸潜功閑思周室之衰始自河陽之狩晋文爲踐土之盟天王赴會春秋諱之曰狩于河陽周室漸微因有得士失士之論昌國亡國之談皆運巧心竟揺辯舌受黄金而不媿取白璧以非難蘇秦則佩印以榮家張禄則强邦而刷耻不韋立躋於顯位李斯休歎於寒門一時之遊說逢人萬倍之貴榮入手殊不知損傷顥氣馳逐浮雲初遊崇盛之鄉終入危亡之域及已獲走鹿别有飛龍秦祚告終駕海之橋隳碧浪漢皇啓運斬蛇之劍倚青天綿蕝既興文物斯盛東西南北見車書而混同動植飛沉感生成而優泳繇是鏡清人海塵靜九州詐僞之說不行眞厚之風復振乃有楊子雲東方朔邴原袁安並星辰鍾秀蘭茝馳芳淫於典墳緩其進取蓋洞知前事别固後圖是知蘇秦佩印以榮家不如楊子雲執戟而仕漢張禄强邦而刷耻不如東方朔割肉以韜名不韋顯位爰躋不如邴原常辭於厚禄李斯寒門休歎不如袁安靜守於衡茅匪生虚妄之心但賦窮通之分用之則如珠還浦自有輝華捨之則似玉藏山孰知温潤進退得理逍遥固躬禀玄元上善之言師大易隨時之義無興躁競有近沖和遐想四賢流芳千古但念燕臺罷職渭水謀居自揣鄙愚敢言述作直以仰窺聖㫖方扇眞風弘四善以靜寰區用三寳而撫黎庶咸歸朴素盡去浮華因敢强味道經輒編巴唱隨其篇目詠其指歸或一句以分吟或全章而紀事雖非騷雅但慕玄虚唯剖丹心上塵洞鑒
+  hash: sha256:c6c461b378983afb4a9e2a22d17a5f1dabf8baa3bb762d8dfefcf45476c78a6b
+metadata:
+  title: 道德篇章玄頌
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:58:57.508846'
+  source:
+    repository: kanripo
+    path: KR5c0377/KR5c0377_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:3f775a7ff24e7e6bb480a37369fde5971d3b5203f7d5f5942e994baaa204790c
